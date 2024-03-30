@@ -70,7 +70,6 @@ Markdown
 MarkupSafe
 matplotlib
 matplotlib-inline
-mediapipe
 moviepy
 mpmath
 msgpack
@@ -80,7 +79,6 @@ numba
 numpy
 oauthlib
 onnx
-onnxruntime-silicon
 openai
 opencv-contrib-python
 opencv-python
@@ -135,7 +133,6 @@ tensorboard
 tensorboard-data-server
 tensorflow
 tensorflow-estimator
-tensorflow-macos
 termcolor
 tf_keras-nightly
 threadpoolctl
