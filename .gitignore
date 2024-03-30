@@ -1,0 +1,11 @@
+# Python Cache
+__pycache__/
+
+# Python Environment
+youreplyAI/
+
+# Not required directories 
+audios/
+
+# ignore .DS_Store 
+.DS_Store
